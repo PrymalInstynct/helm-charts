@@ -1,0 +1,14 @@
+apiVersion: v2
+name: busybox-chart
+description: A Helm Chart for running BusyBox
+version: 0.1.0
+maintainers:
+  - name: Chad Zimmerman
+    email: zimmermanc@gmail.com
+icon: https://www.busybox.net/images/busybox1.png
+keywords:
+  - busybox
+home: https://www.busybox.net/
+type: application
+appVersion: "1.34.1"
+
