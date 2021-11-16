@@ -3,9 +3,9 @@ entries:
   busybox-chart:
   - apiVersion: v2
     appVersion: lastest
-    created: "2021-11-16T03:06:36.8853915-07:00"
+    created: "2021-11-16T03:34:09.5746795-07:00"
     description: A Helm Chart for running BusyBox
-    digest: 00b6aa299c07bd034f0fc0e258ab0ad805304c977e91b8facbb4c3c55620015c
+    digest: aff586b5e70aecc8e8b283fb883ce300578b70b69961b5ad0f5a078eaa77798b
     home: https://www.busybox.net/
     icon: https://www.busybox.net/images/busybox1.png
     keywords:
@@ -16,6 +16,6 @@ entries:
     name: busybox-chart
     type: application
     urls:
-    - https://prymalinstynct.github.io/helm-charts/charts/busybox-chart-0.1.4.tgz
-    version: 0.1.4
-generated: "2021-11-16T03:06:36.8846671-07:00"
+    - https://prymalinstynct.github.io/helm-charts/charts/busybox-chart-0.1.5.tgz
+    version: 0.1.5
+generated: "2021-11-16T03:34:09.573934-07:00"

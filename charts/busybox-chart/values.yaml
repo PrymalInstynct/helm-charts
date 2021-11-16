@@ -28,8 +28,10 @@ securityContext: {}
   # runAsNonRoot: true
   # runAsUser: 1000
 service:
+  name: busybox
   type: ClusterIP
-  port: 80
+  externalPort: 80
+  internalPort: 80
 ingress:
   enabled: false
   className: ""
