@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Chad's Helm Repo
-email: zimmermanc@gmail.com
+email: zimzamfam@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is the helm repository for projects I am working on
 baseurl: "" # the subpath of your site, e.g. /blog

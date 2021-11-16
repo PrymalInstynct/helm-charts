@@ -3,19 +3,19 @@ entries:
   busybox-chart:
   - apiVersion: v2
     appVersion: lastest
-    created: "2021-11-16T03:01:16.4358972-07:00"
+    created: "2021-11-16T03:06:36.8853915-07:00"
     description: A Helm Chart for running BusyBox
-    digest: 43461814a54c6d1e6bce1cbae3eee593fa124961ecd6357df6a74f0f684eab3c
+    digest: 00b6aa299c07bd034f0fc0e258ab0ad805304c977e91b8facbb4c3c55620015c
     home: https://www.busybox.net/
     icon: https://www.busybox.net/images/busybox1.png
     keywords:
     - busybox
     maintainers:
-    - email: zimmermanc@gmail.com
+    - email: zimzamfam@gmail.com
       name: Chad Zimmerman
     name: busybox-chart
     type: application
     urls:
     - https://prymalinstynct.github.io/helm-charts/charts/busybox-chart-0.1.4.tgz
     version: 0.1.4
-generated: "2021-11-16T03:01:16.4346992-07:00"
+generated: "2021-11-16T03:06:36.8846671-07:00"
