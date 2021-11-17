@@ -3,6 +3,23 @@ entries:
   busybox-chart:
   - apiVersion: v2
     appVersion: 1.34.1
+    created: "2021-11-17T13:38:22.927517085Z"
+    description: A Helm Chart for running BusyBox
+    digest: fc0d8b6817ca4d60ddd024744ead409e767de8846695a70ff1502026d771c549
+    home: https://www.busybox.net/
+    icon: https://www.busybox.net/images/busybox1.png
+    keywords:
+    - busybox
+    maintainers:
+    - email: zimzamfam@gmail.com
+      name: prymalinstynct
+    name: busybox-chart
+    type: application
+    urls:
+    - https://github.com/PrymalInstynct/helm-charts/releases/download/busybox-chart-0.1.15/busybox-chart-0.1.15.tgz
+    version: 0.1.15
+  - apiVersion: v2
+    appVersion: 1.34.1
     created: "2021-11-17T13:30:58.485325869Z"
     description: A Helm Chart for running BusyBox
     digest: 42ba467960431135626803721a0790faca252baf8032985a06b8b6962a1858e0
@@ -120,4 +137,4 @@ entries:
     urls:
     - https://github.com/PrymalInstynct/helm-charts/releases/download/busybox-chart-0.1.8/busybox-chart-0.1.8.tgz
     version: 0.1.8
-generated: "2021-11-17T13:30:58.485354769Z"
+generated: "2021-11-17T13:38:22.927542285Z"
