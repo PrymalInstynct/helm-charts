@@ -1,7 +1,7 @@
 apiVersion: v2
 name: busybox-chart
 description: A Helm Chart for running BusyBox
-version: 0.1.11
+version: 0.1.12
 maintainers:
   - name: prymalinstynct
     email: zimzamfam@gmail.com
