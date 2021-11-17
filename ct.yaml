@@ -6,5 +6,5 @@ chart-dirs:
 chart-repos:
   - prymalinstynct=https://prymalinstynct.github.io/helm-charts/charts
 charts:
-  - busybox
+  - busybox-chart
 helm-extra-args: --timeout 600s
