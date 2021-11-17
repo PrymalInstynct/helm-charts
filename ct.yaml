@@ -4,5 +4,5 @@ target-branch: main
 chart-dirs:
   - charts
 chart-repos:
-  - prymalinstynct=https://prymalinstynct.github.io/helm-charts/charts
+  - bitnami=https://charts.bitnami.com/bitnami
 helm-extra-args: --timeout 600s
