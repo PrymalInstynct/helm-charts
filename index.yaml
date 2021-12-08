@@ -207,6 +207,32 @@ entries:
   uptime-kuma:
   - apiVersion: v2
     appVersion: v1.10.2
+    created: "2021-12-08T11:21:35.783561398Z"
+    dependencies:
+    - name: common
+      repository: https://library-charts.k8s-at-home.com
+      version: 4.2.0
+    description: A fancy self-hosted monitoring tool for your websites and applications
+    digest: 02302e4ac015ef21d82ab994e321141d5745904dcc5088f01dac86cf4626c3cb
+    home: https://github.com/k8s-at-home/charts/tree/master/charts/incubator/uptime-kuma
+    icon: https://github.com/louislam/uptime-kuma/raw/master/public/icon.svg
+    keywords:
+    - uptime-kuma
+    - status
+    - status-page
+    - monitoring
+    kubeVersion: '>=1.16.0-0'
+    maintainers:
+    - email: pysen@svartavillan.se
+      name: pysen
+    name: uptime-kuma
+    sources:
+    - https://github.com/louislam/uptime-kuma
+    urls:
+    - https://github.com/PrymalInstynct/helm-charts/releases/download/uptime-kuma-1.0.2/uptime-kuma-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
+    appVersion: v1.10.2
     created: "2021-12-08T11:06:44.002383987Z"
     dependencies:
     - name: common
@@ -231,4 +257,4 @@ entries:
     urls:
     - https://github.com/PrymalInstynct/helm-charts/releases/download/uptime-kuma-1.0.1/uptime-kuma-1.0.1.tgz
     version: 1.0.1
-generated: "2021-12-08T11:06:44.002626789Z"
+generated: "2021-12-08T11:21:35.783646202Z"
