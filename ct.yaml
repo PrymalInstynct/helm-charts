@@ -3,6 +3,6 @@ remote: origin
 target-branch: main
 chart-dirs:
   - charts
-# chart-repos:
-#   - bitnami=https://charts.bitnami.com/bitnami
+chart-repos:
+  - k8s-at-home=https://library-charts.k8s-at-home.com
 helm-extra-args: --timeout 600s
